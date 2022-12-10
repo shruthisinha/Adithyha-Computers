@@ -351,7 +351,7 @@ nav .flex-content:nth-child(1){
 }
 
 nav a, nav .dropdown{
-  padding:1rem 1.1rem;
+  padding:0.6rem 1.3rem;
   white-space:nowrap;
   color:var(--lite);
   display:inline-block;
